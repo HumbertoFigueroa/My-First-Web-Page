@@ -1,21 +1,51 @@
-# Mi Página Web Personal
+# Personal Web Page v1.0
 
-Proyecto para aprender desarrollo web desde cero.
+This is my first personal web page created as part of my learning process in the IBM Full Stack Developer program.
 
-## Versiones
-- **v1.0** - HTML básico (enero 2026)
-- v2.0 - Con CSS (próximamente)
-- v3.0 - Con JavaScript (próximamente)
+## 📌 Project Description
 
-## Estructura
-- `MyFirstHTMLWebPage.html` - Página principal
+This project is a simple personal profile website built using basic HTML and a small amount of CSS.  
+It is intended to practice fundamental web development concepts such as structure, semantics, and media integration.
 
-## Cómo ver la página
-1. Abre el archivo `MyFirstHTMLWebPage.html` en tu navegador
-2. Haz cambios en el código
-3. Recarga la página (Ctrl+R)
+## 🚀 Technologies Used
 
-## Tareas pendientes
-- [ ] Completar información personal
-- [ ] Agregar CSS cuando lo aprendas
-- [ ] Agregar interactividad con JavaScript
+- HTML5  
+- Basic CSS  
+- Visual Studio Code  
+- Git & GitHub  
+
+## 📂 Features
+
+- Personal introduction section  
+- Profile photo  
+- Skills list  
+- Contact information  
+- Clean and semantic HTML structure  
+
+## 🎯 Purpose
+
+The main goal of this project is to:
+
+- Practice HTML structure and best practices  
+- Learn how to organize project files  
+- Get familiar with version control using Git  
+- Start building a personal portfolio  
+
+## 📈 Future Improvements
+
+In future versions, I plan to add:
+
+- External CSS styling  
+- Responsive design  
+- JavaScript interactivity  
+- Backend integration  
+- Improved layout and accessibility  
+
+## 🧑‍💻 Author
+
+Jose Humberto Figueroa Aragón  
+Full Stack Developer Student  
+
+## 📅 Version
+
+v1.0 — Initial release
